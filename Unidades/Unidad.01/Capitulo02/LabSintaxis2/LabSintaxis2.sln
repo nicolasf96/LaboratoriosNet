@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSintaxis2", "LabSintaxis2\LabSintaxis2.csproj", "{ABB5367C-7646-4770-86A5-E8C89689FBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB5367C-7646-4770-86A5-E8C89689FBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB5367C-7646-4770-86A5-E8C89689FBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB5367C-7646-4770-86A5-E8C89689FBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB5367C-7646-4770-86A5-E8C89689FBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB69CD95-66E1-4BF6-A680-39467E362097}
+	EndGlobalSection
+EndGlobal
